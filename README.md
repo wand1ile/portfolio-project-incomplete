@@ -23,3 +23,9 @@ This project is still under development, and more features will be added over ti
 * Additional styling and animations
 * Possible integration with a backend for more functionality
 
+![Screenshots](./screen1.png)
+
+## Screenshot 2
+
+![Screenshots](./screen2.png)
+
